@@ -14,8 +14,6 @@ using namespace std;
 //
 // The class Player exposes the following operations:
 //   - play one round
-//   - get current position on the board
-//   - set current position on the board
 //   - get player's name
 //   - set player's name
 //
